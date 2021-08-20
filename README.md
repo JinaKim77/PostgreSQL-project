@@ -17,7 +17,7 @@ Use SQL Database Definition Language (DDL) to create the data schemas designed i
 
 ## Instructions
 
-All your tasks are outlined in [Here](https://github.com/JinaKim77/PostgreSQL-project/blob/main/Udiddit, a social news aggregator.pdf)
+All your tasks are outlined in [Here](https://github.com/JinaKim77/PostgreSQL-project/blob/main/Udiddit%2C%20a%20social%20news%20aggregator.pdf)
 
 You need to complete the following in the template:
 
